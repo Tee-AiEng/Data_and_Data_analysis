@@ -130,4 +130,4 @@ INSERT INTO Borrow_History (BorrowHistoryID,BookID,MemberID,BorrowDate,ReturnDat
 INSERT INTO Borrow_History (BorrowHistoryID,BookID,MemberID,BorrowDate,ReturnDate) VALUES(15,49,7,'2024-03-20');
 
 
-INSERT INTO Books(BookID,Title,AuthorID,Genre,DateOfPublication,Publisher,ISBN,Language,AvailableCopies,AgeRating) VALUES(1,'The Handmaid's Tale',	1	Dystopian Fiction	1985-08-01	McClelland & Stewart	9780771008795	English	3	16+																)
+INSERT INTO Books(BookID,Title,AuthorID,Genre,DateOfPublication,Publisher,ISBN,Language,AvailableCopies,AgeRating) VALUES(1	The Handmaid's Tale	1	Dystopian Fiction	1985-08-01	McClelland & Stewart	9780771008795	English	3	16+																)
