@@ -1,0 +1,10 @@
+pandas
+numpy
+seaborn
+matplotlib
+plotly
+kaggle
+fastapi
+dotenv
+pydantic
+uvicorn
